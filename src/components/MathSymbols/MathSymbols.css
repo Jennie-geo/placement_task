@@ -1,0 +1,10 @@
+.symbol {
+  border: 1px solid rgb(87, 22, 22);
+  height: 6vh;
+  width: 4.2rem;
+  text-align: center;
+  background-color: red;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+}

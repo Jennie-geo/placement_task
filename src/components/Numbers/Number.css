@@ -1,0 +1,48 @@
+.numbers {
+  display: block;
+}
+.content1 {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgb(87, 22, 22);
+  text-align: center;
+  background-color: white;
+  color: black;
+  font-size: 24px;
+  height: 6.3vh;
+}
+.content2 {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgb(87, 22, 22);
+  text-align: center;
+  background-color: white;
+  color: black;
+  font-size: 24px;
+  height: 5.9vh;
+}
+.content3 {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgb(87, 22, 22);
+  text-align: center;
+  background-color: white;
+  color: black;
+  font-size: 24px;
+  height: 6vh;
+}
+.integer {
+  width: 6rem;
+  cursor: pointer;
+}
+.integers {
+  width: 6rem;
+  margin-right: 0.2px;
+  cursor: pointer;
+}
+.integer2 {
+  width: 6rem;
+  cursor: pointer;
+}
+/* height: 6vh;
+  width: 4rem; */
